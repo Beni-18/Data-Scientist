@@ -1,189 +1,184 @@
 # Data Science & Machine Learning Portfolio
 
-> A structured collection of Machine Learning, Data Science, and ML Engineering projects  
-> built using real-world datasets, production-ready pipelines, and deployment frameworks.
+A structured collection of Machine Learning, Data Science, and ML Engineering projects built using real-world datasets, production-ready pipelines, and deployment frameworks.
 
 ---
 
-## 📚 Repository Structure
+## Repository Structure
 
 This portfolio is organized into:
 
-- 🧠 Core ML Concepts  
-- 🤖 Supervised Learning  
-- 📊 Unsupervised Learning
-- 🚀 Deployment Projects  
+- Core Machine Learning Concepts  
+- Supervised Learning  
+- Unsupervised Learning  
+- Deployment Projects  
 
 ---
 
-# 🧠 Core Machine Learning Concepts
+## Core Machine Learning Concepts
 
-- Supervised vs Unsupervised Learning
-- Overfitting vs Underfitting
-- Bias–Variance Tradeoff
-- Model Evaluation Metrics
-- Cross Validation (K-Fold)
-- Hyperparameter Tuning
-- Feature Engineering & Selection
-
----
-
-# 🤖 Supervised Learning
+- Supervised vs Unsupervised Learning  
+- Overfitting vs Underfitting  
+- Bias–Variance Tradeoff  
+- Model Evaluation Metrics  
+- Cross Validation (K-Fold)  
+- Hyperparameter Tuning  
+- Feature Engineering & Selection  
 
 ---
 
-## 📈 Regression Projects
+## Supervised Learning
 
-### 🔹 Linear Regression
-- Theory + Implementation
-- R², MAE, MSE, RMSE
-- Deployment Ready
+### Regression Projects
 
-🔗 **Project:**  
-[[CoffeeShop_Prediction](https://github.com/Beni-18/CoffeeShop_Prediction)](#)
+#### Linear Regression
+- Theory and implementation  
+- R², MAE, MSE, RMSE  
+- Deployment-ready application  
 
----
-
-### 🔹 Lasso & Ridge Regression
-- L1 & L2 Regularization
-- Overfitting Control
-- Feature Shrinkage
-
-🔗 **Project:**  
-[[Lasso_Linear](https://github.com/Beni-18/Lasso_Linear)](#)
+Project:  
+[CoffeeShop_Prediction](https://github.com/Beni-18/CoffeeShop_Prediction)
 
 ---
 
-### 🔹 House Price Prediction
-- Data Cleaning
-- Feature Engineering
-- Model Comparison
-- Deployment
+#### Lasso & Ridge Regression
+- L1 and L2 regularization  
+- Overfitting control  
+- Feature shrinkage analysis  
 
-🔗 **Project:**  
-[[House_Price_Prediction](https://github.com/Beni-18/House_Price_Prediction)](#)
-
----
-
-## 🏥 Classification Projects
-
-### 🔹 Logistic Regression
-- Binary Classification
-- Confusion Matrix
-- Precision, Recall, F1 Score
-
-🔗 **Project:**  
-[[Framingham_Heart_Disease_Predictor](https://github.com/Beni-18/Framingham_Heart_Disease-Predictor-)](#)
+Project:  
+[Lasso_Linear](https://github.com/Beni-18/Lasso_Linear)
 
 ---
 
-### 🔹 Support Vector Machine (SVM)
-- Hyperplane & Margin Concept
-- Kernel Trick
-- Digit Classification
+#### House Price Prediction
+- Data cleaning  
+- Feature engineering  
+- Model comparison  
+- Deployment  
 
-🔗 **Project:**  
-[[SVM_Digit_Predictor](https://github.com/Beni-18/SVM_Digit_Predictor)](#)
-
----
-
-### 🔹 Ensemble Learning (Random Forest / Gradient Boosting)
-- Feature Importance
-- Model Comparison
-- Advanced Evaluation
-
-🔗 **Projects:**  
-[[Diabetes-Predictor](https://github.com/Beni-18/Diabetes-Predictor)](#)  
-[[diabetes-gradient-boosting-streamlit](https://github.com/Beni-18/diabetes-gradient-boosting-streamlit)](#)
+Project:  
+[House_Price_Prediction](https://github.com/Beni-18/House_Price_Prediction)
 
 ---
 
-### 🔹 Naive Bayes
-- Probabilistic Classification
-- Spam Detection
+### Classification Projects
 
-🔗 **Project:**  
-[[Spam_Mail_Detector](https://github.com/Beni-18/Spam_Maill_Detector)](#)
+#### Logistic Regression
+- Binary classification  
+- Confusion matrix  
+- Precision, Recall, F1-score  
 
----
-
-### 🔹 Decision Tree / Tree-Based Models
-- Gini vs Entropy
-- Model Interpretation
-
-🔗 **Project:**  
-[[Mushroom_Classifier](https://github.com/Beni-18/Mushroom_Classifier)](#)
+Project:  
+[Framingham_Heart_Disease_Predictor](https://github.com/Beni-18/Framingham_Heart_Disease-Predictor-)
 
 ---
 
-# 📊 Unsupervised Learning
+#### Support Vector Machine (SVM)
+- Hyperplane and margin concept  
+- Kernel trick  
+- Digit classification  
+
+Project:  
+[SVM_Digit_Predictor](https://github.com/Beni-18/SVM_Digit_Predictor)
 
 ---
 
-## 🔹 K-Means Clustering
-- Elbow Method
-- Optimal Cluster Selection
-- Customer Segmentation
+#### Ensemble Learning (Random Forest / Gradient Boosting)
+- Feature importance  
+- Model comparison  
+- Advanced evaluation  
 
-🔗 **Project:**  
-[[Mall_Customer_Segmentation](https://github.com/Beni-18/Mall_Customer_Segmentation)](#)
-
----
-
-## 🔹 DBSCAN (Density-Based Clustering)
-- Core Points & Noise
-- Non-linear Cluster Detection
-
-🔗 **Project:**  
-[[DBSCAN_Wine](https://github.com/Beni-18/DBSCAN_Wine)](#)
+Projects:  
+[Diabetes-Predictor](https://github.com/Beni-18/Diabetes-Predictor)  
+[diabetes-gradient-boosting-streamlit](https://github.com/Beni-18/diabetes-gradient-boosting-streamlit)
 
 ---
 
-# 🛠 ML Engineering & Optimization
+#### Naive Bayes
+- Probabilistic classification  
+- Spam detection  
 
-- Bias–Variance Tradeoff
-- K-Fold Cross Validation
-- GridSearchCV
-- RandomizedSearchCV
-- Feature Selection (Filter, Wrapper, Embedded)
-- Model Serialization (Joblib)
-- Streamlit Deployment
-- Flask Deployment
+Project:  
+[Spam_Mail_Detector](https://github.com/Beni-18/Spam_Maill_Detector)
 
 ---
 
-# 🧪 Tech Stack
+#### Decision Tree / Tree-Based Models
+- Gini vs Entropy  
+- Model interpretation  
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-Learn
-Streamlit
-Flask
-Joblib
+Project:  
+[Mushroom_Classifier](https://github.com/Beni-18/Mushroom_Classifier)
 
 ---
 
-# 🌟 Highlights
+## Unsupervised Learning
 
-✔ Clean Project Structure  
-✔ End-to-End ML Pipelines  
-✔ Model Evaluation Included  
-✔ Deployment-Ready Applications  
-✔ Real-World Dataset Usage  
-✔ Production-Oriented Code  
+#### K-Means Clustering
+- Elbow method  
+- Optimal cluster selection  
+- Customer segmentation  
+
+Project:  
+[Mall_Customer_Segmentation](https://github.com/Beni-18/Mall_Customer_Segmentation)
 
 ---
 
-# 📌 Upcoming Additions
+#### DBSCAN (Density-Based Clustering)
+- Core points and noise  
+- Non-linear cluster detection  
 
-- XGBoost Advanced Tuning
-- Deep Learning Projects
-- NLP Applications
-- Model Monitoring
-- Docker Deployment
-- CI/CD for ML Apps
+Project:  
+[DBSCAN_Wine](https://github.com/Beni-18/DBSCAN_Wine)
+
+---
+
+## ML Engineering & Optimization
+
+- Bias–Variance Tradeoff  
+- K-Fold Cross Validation  
+- GridSearchCV  
+- RandomizedSearchCV  
+- Feature Selection (Filter, Wrapper, Embedded)  
+- Model Serialization (Joblib)  
+- Streamlit Deployment  
+- Flask Deployment  
+
+---
+
+## Tech Stack
+
+- Python  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-Learn  
+- Streamlit  
+- Flask  
+- Joblib  
+
+---
+
+## Highlights
+
+- Clean project structure  
+- End-to-end ML pipelines  
+- Model evaluation included  
+- Deployment-ready applications  
+- Real-world dataset usage  
+- Production-oriented implementation  
+
+---
+
+## Upcoming Additions
+
+- XGBoost advanced tuning  
+- Deep learning projects  
+- NLP applications  
+- Model monitoring  
+- Docker deployment  
+- CI/CD for ML applications  
 
 ---
