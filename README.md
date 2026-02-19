@@ -11,7 +11,7 @@ This portfolio is organized into:
 - Core Machine Learning Concepts  
 - Supervised Learning  
 - Unsupervised Learning  
-- Deployment Projects  
+- ML Engineering & Deployment  
 
 ---
 
@@ -27,11 +27,13 @@ This portfolio is organized into:
 
 ---
 
-## Supervised Learning
+# Supervised Learning
 
-### Regression Projects
+---
 
-#### Linear Regression
+## Regression Projects
+
+### Linear Regression
 - Theory and implementation  
 - R², MAE, MSE, RMSE  
 - Deployment-ready application  
@@ -41,7 +43,7 @@ Project:
 
 ---
 
-#### Lasso & Ridge Regression
+### Lasso & Ridge Regression
 - L1 and L2 regularization  
 - Overfitting control  
 - Feature shrinkage analysis  
@@ -51,7 +53,7 @@ Project:
 
 ---
 
-#### House Price Prediction
+### House Price Prediction
 - Data cleaning  
 - Feature engineering  
 - Model comparison  
@@ -62,19 +64,52 @@ Project:
 
 ---
 
-### Classification Projects
+### Energy Efficiency Prediction (Random Forest)
+- Regression modeling  
+- Feature importance analysis  
+- Performance evaluation  
 
-#### Logistic Regression
+Project:  
+[Energy_Efficiency_Model](https://github.com/Beni-18/Energy_Efficiency_Model)
+
+---
+
+### Wine Quality Prediction (Regression)
+- Cross-validation  
+- Model comparison  
+- Performance tuning  
+
+Project:  
+[Wine_Quality_Predictor](https://github.com/Beni-18/Wine_Quality_Predictor)
+
+---
+
+### Milk Quality Prediction
+- Feature preprocessing  
+- Model evaluation  
+- Classification-based quality grading  
+
+Project:  
+[Milk_Quality_Predictor](https://github.com/Beni-18/Milk_Quality_Predictor)
+
+---
+
+# Classification Projects
+
+---
+
+### Logistic Regression
 - Binary classification  
 - Confusion matrix  
 - Precision, Recall, F1-score  
 
-Project:  
-[Framingham_Heart_Disease_Predictor](https://github.com/Beni-18/Framingham_Heart_Disease-Predictor-)
+Projects:  
+[Framingham_Heart_Disease_Predictor](https://github.com/Beni-18/Framingham_Heart_Disease-Predictor-)  
+[Logistic_Assessment](https://github.com/Beni-18/Logistic_Assessment)
 
 ---
 
-#### Support Vector Machine (SVM)
+### Support Vector Machine (SVM)
 - Hyperplane and margin concept  
 - Kernel trick  
 - Digit classification  
@@ -84,18 +119,30 @@ Project:
 
 ---
 
-#### Ensemble Learning (Random Forest / Gradient Boosting)
+### Decision Tree / Tree-Based Models
+- Gini vs Entropy  
+- Model interpretation  
+
+Projects:  
+[Mushroom_Classifier](https://github.com/Beni-18/Mushroom_Classifier)  
+[Heart_Disease_DesicionTree](https://github.com/Beni-18/Heart_Disease_DesicionTree)  
+[Breast_Cancer_Identifier](https://github.com/Beni-18/Breast_Cancer_Identifier)
+
+---
+
+### Ensemble Learning (Random Forest / Gradient Boosting / XGBoost)
 - Feature importance  
-- Model comparison  
+- Boosting techniques  
 - Advanced evaluation  
 
 Projects:  
 [Diabetes-Predictor](https://github.com/Beni-18/Diabetes-Predictor)  
-[diabetes-gradient-boosting-streamlit](https://github.com/Beni-18/diabetes-gradient-boosting-streamlit)
+[diabetes-gradient-boosting-streamlit](https://github.com/Beni-18/diabetes-gradient-boosting-streamlit)  
+[XGBOOSTING](https://github.com/Beni-18/XGBOOSTING)
 
 ---
 
-#### Naive Bayes
+### Naive Bayes
 - Probabilistic classification  
 - Spam detection  
 
@@ -104,18 +151,11 @@ Project:
 
 ---
 
-#### Decision Tree / Tree-Based Models
-- Gini vs Entropy  
-- Model interpretation  
-
-Project:  
-[Mushroom_Classifier](https://github.com/Beni-18/Mushroom_Classifier)
+# Unsupervised Learning
 
 ---
 
-## Unsupervised Learning
-
-#### K-Means Clustering
+### K-Means Clustering
 - Elbow method  
 - Optimal cluster selection  
 - Customer segmentation  
@@ -125,7 +165,17 @@ Project:
 
 ---
 
-#### DBSCAN (Density-Based Clustering)
+### Hierarchical Clustering
+- Agglomerative clustering  
+- Dendrogram visualization  
+- Distance metrics comparison  
+
+Project:  
+[Hierarchical_Clustering](https://github.com/Beni-18/Hierarchical_Clustering)
+
+---
+
+### DBSCAN (Density-Based Clustering)
 - Core points and noise  
 - Non-linear cluster detection  
 
@@ -134,7 +184,7 @@ Project:
 
 ---
 
-## ML Engineering & Optimization
+# ML Engineering & Optimization
 
 - Bias–Variance Tradeoff  
 - K-Fold Cross Validation  
@@ -147,7 +197,7 @@ Project:
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 - Python  
 - NumPy  
@@ -161,7 +211,7 @@ Project:
 
 ---
 
-## Highlights
+# Highlights
 
 - Clean project structure  
 - End-to-end ML pipelines  
@@ -172,13 +222,11 @@ Project:
 
 ---
 
-## Upcoming Additions
+# Upcoming Additions
 
-- XGBoost advanced tuning  
+- Advanced XGBoost tuning  
 - Deep learning projects  
 - NLP applications  
 - Model monitoring  
 - Docker deployment  
 - CI/CD for ML applications  
-
----
